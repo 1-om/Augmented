@@ -27,7 +27,7 @@ Features:
 
 [Mutant Ape](https://etherscan.io/address/0x60e4d786628fea6478f785a6d7e704777c86a7c6#code) contract has a file MutantApeYachtClub.sol
 
-- NFT metadata is set, or overridden by owner using function _setBaseURI_. The value of the base URI is "ipfs://QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/".
+- NFT metadata is set, or overridden by owner using function _setBaseURI_. The value of the base URI is "https://boredapeyachtclub.com/api/mutants/".
 - Mint price decreases as public sale goes on! After the public sale ends the price is fixed to 0.01 ETH.
 
 ## CryptoKitties
