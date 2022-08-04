@@ -438,7 +438,7 @@
     "id": 2957,
     "exportedSymbols": {
       "DSTest": [
-        23091
+        24783
       ],
       "Script": [
         235
@@ -505,7 +505,7 @@
         "file": "ds-test/test.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 2957,
-        "sourceUnit": 23092,
+        "sourceUnit": 24784,
         "symbolAliases": [],
         "unitAlias": ""
       },
@@ -3759,7 +3759,7 @@
                       "name": "log_named_string",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 21390,
+                      "referencedDeclaration": 23082,
                       "src": "2825:16:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -6557,7 +6557,7 @@
                       "name": "log_named_uint",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 21378,
+                      "referencedDeclaration": 23070,
                       "src": "4959:14:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -8821,7 +8821,7 @@
                       "name": "log_named_string",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 21390,
+                      "referencedDeclaration": 23082,
                       "src": "7294:16:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -8857,9 +8857,9 @@
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
                         880,
-                        21521
+                        23213
                       ],
-                      "referencedDeclaration": 21521,
+                      "referencedDeclaration": 23213,
                       "src": "7334:4:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -8988,10 +8988,10 @@
                       "name": "assertTrue",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        21574,
-                        21595
+                        23266,
+                        23287
                       ],
-                      "referencedDeclaration": 21574,
+                      "referencedDeclaration": 23266,
                       "src": "7412:10:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_nonpayable$_t_bool_$returns$__$",
@@ -9136,10 +9136,10 @@
                       "name": "assertTrue",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        21574,
-                        21595
+                        23266,
+                        23287
                       ],
-                      "referencedDeclaration": 21595,
+                      "referencedDeclaration": 23287,
                       "src": "7520:10:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_nonpayable$_t_bool_$_t_string_memory_ptr_$returns$__$",
@@ -9335,7 +9335,7 @@
                             "name": "log",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21310,
+                            "referencedDeclaration": 23002,
                             "src": "7639:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$returns$__$",
@@ -9453,7 +9453,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "7715:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -9571,7 +9571,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "7789:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -9607,9 +9607,9 @@
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
                               880,
-                              21521
+                              23213
                             ],
-                            "referencedDeclaration": 21521,
+                            "referencedDeclaration": 23213,
                             "src": "7858:4:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -9824,7 +9824,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "7990:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -9903,16 +9903,16 @@
                               1158,
                               1195,
                               1232,
-                              21625,
-                              21650,
-                              21680,
-                              21705,
-                              21764,
-                              21789,
-                              21819,
-                              21844,
-                              22944,
-                              22979
+                              23317,
+                              23342,
+                              23372,
+                              23397,
+                              23456,
+                              23481,
+                              23511,
+                              23536,
+                              24636,
+                              24671
                             ],
                             "referencedDeclaration": 941,
                             "src": "8034:8:1",
@@ -10101,10 +10101,10 @@
                       "name": "assertEq0",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        23063,
-                        23090
+                        24755,
+                        24782
                       ],
-                      "referencedDeclaration": 23063,
+                      "referencedDeclaration": 24755,
                       "src": "8140:9:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_nonpayable$_t_bytes_memory_ptr_$_t_bytes_memory_ptr_$returns$__$",
@@ -10277,10 +10277,10 @@
                       "name": "assertEq0",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        23063,
-                        23090
+                        24755,
+                        24782
                       ],
-                      "referencedDeclaration": 23090,
+                      "referencedDeclaration": 24782,
                       "src": "8256:9:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_nonpayable$_t_bytes_memory_ptr_$_t_bytes_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -10675,7 +10675,7 @@
                             "name": "log",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21310,
+                            "referencedDeclaration": 23002,
                             "src": "8443:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$returns$__$",
@@ -10865,9 +10865,9 @@
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
                               880,
-                              21521
+                              23213
                             ],
-                            "referencedDeclaration": 21521,
+                            "referencedDeclaration": 23213,
                             "src": "8602:4:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -11256,7 +11256,7 @@
                             "name": "log",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21310,
+                            "referencedDeclaration": 23002,
                             "src": "8783:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$returns$__$",
@@ -11446,9 +11446,9 @@
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
                               880,
-                              21521
+                              23213
                             ],
-                            "referencedDeclaration": 21521,
+                            "referencedDeclaration": 23213,
                             "src": "8941:4:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -11837,7 +11837,7 @@
                             "name": "log",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21310,
+                            "referencedDeclaration": 23002,
                             "src": "9124:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$returns$__$",
@@ -12027,9 +12027,9 @@
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
                               880,
-                              21521
+                              23213
                             ],
-                            "referencedDeclaration": 21521,
+                            "referencedDeclaration": 23213,
                             "src": "9286:4:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -12436,7 +12436,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "9488:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -12515,16 +12515,16 @@
                               1158,
                               1195,
                               1232,
-                              21625,
-                              21650,
-                              21680,
-                              21705,
-                              21764,
-                              21789,
-                              21819,
-                              21844,
-                              22944,
-                              22979
+                              23317,
+                              23342,
+                              23372,
+                              23397,
+                              23456,
+                              23481,
+                              23511,
+                              23536,
+                              24636,
+                              24671
                             ],
                             "referencedDeclaration": 1037,
                             "src": "9532:8:1",
@@ -12958,7 +12958,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "9740:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -13037,16 +13037,16 @@
                               1158,
                               1195,
                               1232,
-                              21625,
-                              21650,
-                              21680,
-                              21705,
-                              21764,
-                              21789,
-                              21819,
-                              21844,
-                              22944,
-                              22979
+                              23317,
+                              23342,
+                              23372,
+                              23397,
+                              23456,
+                              23481,
+                              23511,
+                              23536,
+                              24636,
+                              24671
                             ],
                             "referencedDeclaration": 1079,
                             "src": "9784:8:1",
@@ -13480,7 +13480,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "9995:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -13559,16 +13559,16 @@
                               1158,
                               1195,
                               1232,
-                              21625,
-                              21650,
-                              21680,
-                              21705,
-                              21764,
-                              21789,
-                              21819,
-                              21844,
-                              22944,
-                              22979
+                              23317,
+                              23342,
+                              23372,
+                              23397,
+                              23456,
+                              23481,
+                              23511,
+                              23536,
+                              24636,
+                              24671
                             ],
                             "referencedDeclaration": 1121,
                             "src": "10039:8:1",
@@ -13932,7 +13932,7 @@
                             "name": "log",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21310,
+                            "referencedDeclaration": 23002,
                             "src": "10287:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$returns$__$",
@@ -14005,7 +14005,7 @@
                             "name": "log_named_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21378,
+                            "referencedDeclaration": 23070,
                             "src": "10359:14:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -14078,7 +14078,7 @@
                             "name": "log_named_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21378,
+                            "referencedDeclaration": 23070,
                             "src": "10410:14:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -14151,7 +14151,7 @@
                             "name": "log_named_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21378,
+                            "referencedDeclaration": 23070,
                             "src": "10461:14:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -14224,7 +14224,7 @@
                             "name": "log_named_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21378,
+                            "referencedDeclaration": 23070,
                             "src": "10519:14:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -14260,9 +14260,9 @@
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
                               880,
-                              21521
+                              23213
                             ],
-                            "referencedDeclaration": 21521,
+                            "referencedDeclaration": 23213,
                             "src": "10569:4:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -14620,7 +14620,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "10836:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -15079,7 +15079,7 @@
                             "name": "log",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21310,
+                            "referencedDeclaration": 23002,
                             "src": "11148:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$returns$__$",
@@ -15152,7 +15152,7 @@
                             "name": "log_named_int",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21372,
+                            "referencedDeclaration": 23064,
                             "src": "11219:13:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_int256_$returns$__$",
@@ -15225,7 +15225,7 @@
                             "name": "log_named_int",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21372,
+                            "referencedDeclaration": 23064,
                             "src": "11270:13:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_int256_$returns$__$",
@@ -15298,7 +15298,7 @@
                             "name": "log_named_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21378,
+                            "referencedDeclaration": 23070,
                             "src": "11321:14:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -15371,7 +15371,7 @@
                             "name": "log_named_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21378,
+                            "referencedDeclaration": 23070,
                             "src": "11379:14:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -15407,9 +15407,9 @@
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
                               880,
-                              21521
+                              23213
                             ],
-                            "referencedDeclaration": 21521,
+                            "referencedDeclaration": 23213,
                             "src": "11429:4:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -15767,7 +15767,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "11694:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -16131,18 +16131,18 @@
                           1158,
                           1195,
                           1232,
-                          21625,
-                          21650,
-                          21680,
-                          21705,
-                          21764,
-                          21789,
-                          21819,
-                          21844,
-                          22944,
-                          22979
+                          23317,
+                          23342,
+                          23372,
+                          23397,
+                          23456,
+                          23481,
+                          23511,
+                          23536,
+                          24636,
+                          24671
                         ],
-                        "referencedDeclaration": 21819,
+                        "referencedDeclaration": 23511,
                         "src": "12003:8:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_nonpayable$_t_uint256_$_t_uint256_$returns$__$",
@@ -16368,7 +16368,7 @@
                             "name": "log",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21310,
+                            "referencedDeclaration": 23002,
                             "src": "12188:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$returns$__$",
@@ -16441,7 +16441,7 @@
                             "name": "log_named_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21378,
+                            "referencedDeclaration": 23070,
                             "src": "12268:14:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -16514,7 +16514,7 @@
                             "name": "log_named_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21378,
+                            "referencedDeclaration": 23070,
                             "src": "12329:14:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$returns$__$",
@@ -16607,7 +16607,7 @@
                             "name": "log_named_decimal_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21366,
+                            "referencedDeclaration": 23058,
                             "src": "12390:22:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$_t_uint256_$returns$__$",
@@ -16700,7 +16700,7 @@
                             "name": "log_named_decimal_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21366,
+                            "referencedDeclaration": 23058,
                             "src": "12469:22:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$_t_uint256_$returns$__$",
@@ -16736,9 +16736,9 @@
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
                               880,
-                              21521
+                              23213
                             ],
-                            "referencedDeclaration": 21521,
+                            "referencedDeclaration": 23213,
                             "src": "12540:4:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -16985,18 +16985,18 @@
                           1158,
                           1195,
                           1232,
-                          21625,
-                          21650,
-                          21680,
-                          21705,
-                          21764,
-                          21789,
-                          21819,
-                          21844,
-                          22944,
-                          22979
+                          23317,
+                          23342,
+                          23372,
+                          23397,
+                          23456,
+                          23481,
+                          23511,
+                          23536,
+                          24636,
+                          24671
                         ],
-                        "referencedDeclaration": 21819,
+                        "referencedDeclaration": 23511,
                         "src": "12802:8:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_nonpayable$_t_uint256_$_t_uint256_$returns$__$",
@@ -17238,7 +17238,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "12987:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -17602,18 +17602,18 @@
                           1158,
                           1195,
                           1232,
-                          21625,
-                          21650,
-                          21680,
-                          21705,
-                          21764,
-                          21789,
-                          21819,
-                          21844,
-                          22944,
-                          22979
+                          23317,
+                          23342,
+                          23372,
+                          23397,
+                          23456,
+                          23481,
+                          23511,
+                          23536,
+                          24636,
+                          24671
                         ],
-                        "referencedDeclaration": 21764,
+                        "referencedDeclaration": 23456,
                         "src": "13249:8:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_nonpayable$_t_int256_$_t_int256_$returns$__$",
@@ -17839,7 +17839,7 @@
                             "name": "log",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21310,
+                            "referencedDeclaration": 23002,
                             "src": "13434:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$returns$__$",
@@ -17912,7 +17912,7 @@
                             "name": "log_named_int",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21372,
+                            "referencedDeclaration": 23064,
                             "src": "13512:13:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_int256_$returns$__$",
@@ -17985,7 +17985,7 @@
                             "name": "log_named_int",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21372,
+                            "referencedDeclaration": 23064,
                             "src": "13572:13:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_int256_$returns$__$",
@@ -18078,7 +18078,7 @@
                             "name": "log_named_decimal_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21366,
+                            "referencedDeclaration": 23058,
                             "src": "13632:22:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$_t_uint256_$returns$__$",
@@ -18171,7 +18171,7 @@
                             "name": "log_named_decimal_uint",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21366,
+                            "referencedDeclaration": 23058,
                             "src": "13710:22:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_uint256_$_t_uint256_$returns$__$",
@@ -18207,9 +18207,9 @@
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
                               880,
-                              21521
+                              23213
                             ],
-                            "referencedDeclaration": 21521,
+                            "referencedDeclaration": 23213,
                             "src": "13780:4:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_nonpayable$__$returns$__$",
@@ -18456,18 +18456,18 @@
                           1158,
                           1195,
                           1232,
-                          21625,
-                          21650,
-                          21680,
-                          21705,
-                          21764,
-                          21789,
-                          21819,
-                          21844,
-                          22944,
-                          22979
+                          23317,
+                          23342,
+                          23372,
+                          23397,
+                          23456,
+                          23481,
+                          23511,
+                          23536,
+                          24636,
+                          24671
                         ],
-                        "referencedDeclaration": 21764,
+                        "referencedDeclaration": 23456,
                         "src": "13984:8:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_nonpayable$_t_int256_$_t_int256_$returns$__$",
@@ -18709,7 +18709,7 @@
                             "name": "log_named_string",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 21390,
+                            "referencedDeclaration": 23082,
                             "src": "14169:16:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_event_nonpayable$_t_string_memory_ptr_$_t_string_memory_ptr_$returns$__$",
@@ -18969,7 +18969,7 @@
               "id": 240,
               "name": "DSTest",
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 23091,
+              "referencedDeclaration": 24783,
               "src": "190:6:1"
             },
             "id": 241,
@@ -18996,7 +18996,7 @@
         "linearizedBaseContracts": [
           1617,
           235,
-          23091
+          24783
         ],
         "name": "Test",
         "nameLocation": "182:4:1",

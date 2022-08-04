@@ -12,15 +12,16 @@ contract AugmentedTest is Test {
     }
     event NewSet(address indexed augieSet);
     function testNewAugieSetLaunch() public {
-        vm.expectEmit(true,false,false,true);
-        // emit NewSet(address(augmented.launchNewAugieSet("name", "symbol")));
-        console.log(augmented.launchNewAugieSet("name", "symbol"));
-        augmented.launchNewAugieSet("test","TST");
+        uint[] memory divisions = new uint[](1);
+        divisions[0] = 10000;
+        address[] memory houses = new address[](1);
+        houses[0] = msg.sender;
+        augmented.launch("test","TST",houses,divisions,200,0);
     }
 
-    function testNewAugieSetLaunchNotAsOwner() public {
-        vm.expectRevert("Ownable: caller is not the owner");
-        vm.prank(address(0));
-        augmented.launchNewAugieSet("test","TST");
-    }
+    // function testNewAugieSetLaunchNotAsOwner() public {
+    //     vm.expectRevert("Ownable: caller is not the owner");
+    //     vm.prank(address(0));
+    //     augmented.launchNewAugieSet("test","TST");
+    // }
 }

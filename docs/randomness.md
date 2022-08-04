@@ -33,11 +33,11 @@ Features:
 ## CryptoKitties
 
 [KittyCore](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code) has a function that will return the contract that can be used to query for NFT metadata. This contract address can be set or overridden by the owner.
-- Kitties are created by passing in _genes_ & are then auctioned, starting at a minimum price of 0.01 ETH.
+- Kitties are created by the owner passing in _genes_ & are then auctioned, starting at a minimum price of 0.01 ETH.
 
 ## Crypto Punks
 
-[Punks](https://github.com/larvalabs/cryptopunks/blob/master/contracts/CryptoPunksMarket.sol) are not even ERC721 bro!
+[Punks](https://github.com/larvalabs/cryptopunks/blob/master/contracts/CryptoPunksMarket.sol) are not even ERC721 bro!(Maybe that's why they did meebits, as meebits are ERC721 that can be minted by punk owners.)
 - Only a hash of the image file containing all the punks is stored. No methods to use it.
 - Minting is free!
 
