@@ -65,7 +65,7 @@ Once the AugmentedPhoto has been sold at auction to the highest bidder, the cont
 Once I get done rendering, I will upload the file and change the metadata to reflect the final piece with the final Augies and it will stay that way forever….
 Another thing we need to discuss is Augie holder IP rights. May be hairy with use of models, so prob best to not give this. But people will ask.
  
-Now, let’s say u collect an Augie. That means that you “own” the character, and get a percentage of secondary sales royalties of all AugmentedPhoto scenes that feature your Augie…probably 2.5% per APAV. So APAVs essentially can pay a kind of “dividend” you might call it. 
+Now, let’s say you collect an Augie. What does it get you?  It means that you “own” the character, and can collect passive income by gettingt a percentage of sales royalties of all AugmentedPhoto scenes that feature your Augie…probably 2.5% per APAV. So APAVs essentially can pay a kind of “dividend” you might call it. 
  
 When an AugmentedPhoto goes on sale,  any APAVs in the scene will show up as question marks “?”…. Once the sale is made the question marks will populate with APAVs at random…and the blockchain itself completes the story. 
  
