@@ -54,44 +54,22 @@ Once the auction ends, the blockchain will randomly select which Augie is assign
 The auction pot will be paid to AugmentedPhoto (Jason, Om, additional artists or producers) and the blockchain will get to work randomly selecting the Augies for the scene…
 Immediately after the random Augie selection, the contract will pay a 2.5% royalty to each wallet that contains a token of a chosen Augie at the time the auction ends.
 Augie token holders will also receive a 2.5% royalty on all secondary market resales of AugmentedPhotos their Augie appears in. The remainder of the 10% total royalty will be paid to AugmentedPhoto (Jason, Om, additional producers, etc) …for instance if there are 2 augies in a scene, 2.5% would be paid to each augie, and 5% would be paid to AugmentedPhoto…if there are 5 augies in the scene, 2.5% will be paid to each augie, and 0% will be paid to AugmentedPhoto 
-Note about AugmentedPhoto auctions in terms of user experience:
-When an AugmentedPhoto is minted, prior to actually being sold at auction to the highest bidder, the NFT metadata will first point to a “pre-augmented” version of the image, which I think will display a montage of Augies alternating with “?” marks in each of the spots that will eventually be permanently populated with randomly selected Augies. 
+ 
+NOTE/QUESTION:  if we have some Augies that are the same characters with diff emotions or clothes etc  then there’s a chance of more than one version of that character to end up in the AugmentedPhoto which I don’t want…. Maybe we can add a condition that all augies in a story must be a diff character and not just one with a diff emotion…
+ 
+Note about AugmentedPhoto metadata during the auction/ user experience:
+When an AugmentedPhoto is minted, prior to actually being sold at auction to the highest bidder, the NFT metadata will first point to a “pre-augmented” version of the image, which I think will display montages of Augies alternating with “?” marks in each of the spots that will eventually be permanently populated with the randomly selected Augies. 
  
 Once the AugmentedPhoto has been sold at auction to the highest bidder, the contract will select the Augies, and at this time the metadata of the augment story will be updated manually (I think) so the image now shows the scene but with the word “AUGMENTING” Flashing Where the Augies will soon be 
  
+…At this time I’ll have already gotten the readout from the contract telling me which Augies have been picked and where in the image they will be positioned…I’ll be busy augmenting/rendering the final AugmentedPhoto, writing the story piece, and completing the work for the final reveal, which may take some time…maybe several days. In any case, the winning augies will find out they one and will get paid immediately following the sale of the AugmentedPhoto…Once I get done rendering, I will upload the file and change the metadata to reflect the final piece with the final Augies and there will the final AugmentedPhoto “reveal”… once the final, Augie-populated AugmentedPhoto is revealed it will stay this way forever. 
  
-…At this time I’ll be busy augmenting/rendering the final AugmentedPhoto, writing the story piece, and completing the work for the final reveal, which may take some time…maybe several days. 
- 
-Once I get done rendering, I will upload the file and change the metadata to reflect the final piece with the final Augies and it will stay that way forever….
-Another thing we need to discuss is Augie holder IP rights. May be hairy with use of models, so prob best to not give this. But people will ask.
- 
-Now, let’s say you collect an Augie. What does it get you?  It means that you “own” the character, and can collect passive income by gettingt a percentage of sales royalties of all AugmentedPhoto scenes that feature your Augie…probably 2.5% per APAV. So APAVs essentially can pay a kind of “dividend” you might call it. 
- 
-When an AugmentedPhoto goes on sale,  any APAVs in the scene will show up as question marks “?”…. Once the sale is made the question marks will populate with APAVs at random…and the blockchain itself completes the story. 
- 
-I think this could be achieved by simply having the smart contract point at random to pre-prepared variations of each AugmentedPhoto when it executes on the initial sale. 
- 
-Let me know your thoughts when you can…and let’s have a phone convo if this is something you’re interested in pursuing further. Thanks so much for reaching out!
- 
-Also I think I wanna let every subject can keep their APAV if they want and be a player in the game for free as long as they want to….but I’ll sell variations of the original APAVs to the the public but prob still give that 2.5% royalty on their likeness on resales of the variations 
- 
-I think if the system is fair to everyone it’ll be a success 
- 
-*NOTE: all augies, and augment stories pay a total of 10% royalty on resale…for an augie, it’s always 2.5% to the model, 7.5% to AugmentedPhoto…for an augment/story on the other hand, all the augies included in the scene receive a 2.5% royalty on resale, and the remainder of the 10% total royalty will be paid to AugmentedPhoto…for instance if there are 2 augies in a scene, 2.5% would be paid to each augie, and 5% would be paid to AugmentedPhoto…if there are 5 augies in the scene, 2.5% will be paid to each augie, and 0% will be paid to AugmentedPhoto 
- 
-Prior to this augment story being sold at auction to the highest bidder (1 eth reserve…once met 7 day auction)  the augment story nft will display a 3D question mark flashing in the space where the 1 lucky augie will eventually appear after the auction is won
- 
-Once the augment has been sold at auction to the highest bidder, the contract will pick 1 lucky augie from the pool of augies that have been won at auction, no matter who owns them at the time…at this time the metadata of the augment story will be updated manually so the image now shows the scene but with the word (AUGMENTING) Flashing Where the augie will soon be 
- 
- 
-…At this time I’ll be busy augmenting/rendering the augment story piece with the correct augie…may take a while do to rendering…maybe even 24 hours or more…but it doesn’t matter…. the winning augie will be verifiable in etherscan immediately after the augment story is sold at auction (hopefully/probably causing the value of said augie to instantly go up! lol)
- 
-Once I get done rendering, I will upload the file and change the metadata to reflect the final piece with the winning augie and it will stay that way forever….
+——
+QUESTION: Another thing we need to discuss is Augie holder IP rights. May be hairy with use of models, so prob best to not give this. But people will ask.
+——-
  
  
  
+NOTE****Season 1 of the stories should only be open to augies, then in season 2 maybe add the ability to wrap other pfps nft that u own the IP for to add it into the expanded AugmentedPhotoverse??? Wrapped Apes, wrapped punks, etc
  
-NOTE****Season 1 of the stories should only be open to augies, then in season 2 maybe add the ability to wrap your pfp nft that u own the IP for to add it into the expanded AugmentedPhotoverse
  
- 
-Also I’m wondering if all 100 augiez should be distinct and separate characters…if I have the same characters with diff emotions then there’s a chance of more than one version of that character to end up in the AugmentedPhoto which I don’t wAnt..,,unless Om can add a condition that all augies in a story must be a diff character and not just one with a diff emotion
