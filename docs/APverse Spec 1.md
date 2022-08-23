@@ -108,3 +108,4 @@ NOTE****Season 1 of the stories should only be open to augies, then in season 2 
  
  
 Also I’m wondering if all 100 augiez should be distinct and separate characters…if I have the same characters with diff emotions then there’s a chance of more than one version of that character to end up in the AugmentedPhoto which I don’t wAnt..,,unless Om can add a condition that all augies in a story must be a diff character and not just one with a diff emotion
+ 
